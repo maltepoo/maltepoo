@@ -27,7 +27,7 @@ jobs:
         with:
           author_name: Maltepoo Kim
           author_email: jaengpin@gmail.com
-          message: "Auto updating my readme"
+          message: "AUTO UPDATE readme"
           add: "*.svg"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
