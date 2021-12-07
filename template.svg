@@ -278,7 +278,7 @@
   <!-- studying at ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="460" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I’m stdying to be a web developer</text>
+    <text x="15" y="27">I’m studying to be a web developer</text>
     <text x="15" y="50">at the 6th of Samsung Software Academy For Youth.</text>
   </g>
 
