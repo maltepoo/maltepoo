@@ -5,7 +5,6 @@
         Thank you for visiting here 👀
 	</p>
 </p>
-
 <h3 align="center"> 🚀 <b>TECH STACK</b> 🚀 </h3>
 <p align="center"> 
   <b>Front-end</b><br>
@@ -14,6 +13,8 @@
   <img src="https://img.shields.io/badge/JavaScript-ffb13b?style=flat-square&logo=JavaScript&logoColor=white"/></a><br>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=MUI&logoColor=white"/></a>&nbsp
   <br><br>
   <b>Back-end</b><br>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
